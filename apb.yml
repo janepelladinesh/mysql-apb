@@ -1,7 +1,7 @@
 ---
 
 version: '1.0'
-name: mzsql-apb
+name: mzsql1-apb
 description: "Software Collections MySQL APB"
 bindable: true
 async: optional
